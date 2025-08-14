@@ -47,7 +47,8 @@ This project was developed as part of the AI/ML Engineer selection process for B
 
 1. **BERT Implementation**
 
-   - Used transfer learning with BERT base model
+   - While traditional deep learning models (LSTM, GRU, RNN) were considered, chose transfer learning approach
+   - Used BERT base model for its pre-trained knowledge and better language understanding
    - Fine-tuned for sentiment classification
    - Implemented custom prediction functionality
 

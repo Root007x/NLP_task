@@ -56,6 +56,8 @@ This project was developed as part of the AI/ML Engineer selection process for B
    - Superior performance compared to traditional ML approach (6% improvement)
    - Precision, Recall, and F1-Score all approximately 94%
 
+Note: Since the deep learning approach was optional for this task, the deployed application uses the traditional ML model for inference, which provides faster predictions and lighter deployment.
+
 ## Project Structure
 
 ```

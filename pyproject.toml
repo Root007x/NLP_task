@@ -1,7 +1,7 @@
 [project]
-name = "Movie Review Classifier"
+name = "Movie_Review_Classifier"
 version = "0.1.0"
-description = "Add your description here"
+description = "Take a review from the user and classify whether it is a positive or negative review."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
